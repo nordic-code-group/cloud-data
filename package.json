@@ -13,6 +13,9 @@
   "keywords": ["nordic-code"],
   "author": "Nordic Code <Oskar Raagart>",
   "license": "GNU GPL",
+  "publishConfig": {
+    "access": "public"
+  },
   "bugs": {
     "url": "https://github.com/nordic-code-group/cloud-data/issues"
   },
