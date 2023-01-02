@@ -1,6 +1,6 @@
 {
   "name": "@nordic-code/cloud-data",
-  "version": "1.0.0",
+  "version": "1.0.1-0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/nordic-code-group/cloud-data.git"
   },
-  "keywords": ["nordic-code"],
+  "keywords": [
+    "nordic-code"
+  ],
   "author": "Nordic Code <Oskar Raagart>",
   "license": "GNU GPL",
   "publishConfig": {
